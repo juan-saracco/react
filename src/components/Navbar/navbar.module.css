@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    height: 15vh;
+    background-color: cornflowerblue;
+    box-shadow: 0 0 0.5rem black;
+}
+
+.icon{
+    width: 4rem;
+}
+
+.container{
+    background-color: cornflowerblue;
+}
+
+.ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.li{
+    margin-right: 2rem;
+}
+
+.cart{
+    width: 3rem;
+}
